@@ -157,8 +157,12 @@ Henrique:
 ## Mockup
 
 Em último lugar, realizámos um mockup de média fidelidade, relativamente à aplicação que idealizámos:
-![](mockup_PA.png)
+![mockup_PA](https://github.com/alexaoliveira2000/pa_network/assets/77057098/e11876a5-0bb0-4dcc-8a0c-750ea7277416)
+
 
 Como é possível observar na imagem acima, as métricas do grafo são constantemente exibidas na parte inferior do ecrã, enquanto que outro tipo de ações estão na parte superior.
 
 Ao clicarmos num vértice ou numa aresta, no lado direito do ecrã são apresentados todos os detalhes relativamente ao elemento.
+
+Resultado final:
+![image](https://github.com/alexaoliveira2000/pa_network/assets/77057098/eb021d0a-c4e7-4115-a6c1-ba88fac2e9a1)
